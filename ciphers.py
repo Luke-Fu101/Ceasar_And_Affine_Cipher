@@ -21,3 +21,5 @@ def affine_cipher(text, shift, multiplier):
             else:
                 result += char
     return result
+
+        
